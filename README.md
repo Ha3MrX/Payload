@@ -12,7 +12,7 @@
 
 ### git clone https://github.com/Ha3MrX/Payload
 
-### cd payload
+### cd Payload
 
 ### chmod +x payload.sh
 
